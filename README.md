@@ -29,8 +29,8 @@ Input:
 >| 1 | 1 | 1 |  1  |
 
 Output:  
-DNF: a' b' c + a' b c' + a b' c' + a b c  
-CNF: (a + b + c)(a + b' + c')(a' + b + c')(a' + b' + c)  
+>DNF: a' b' c + a' b c' + a b' c' + a b c  
+>CNF: (a + b + c)(a + b' + c')(a' + b + c')(a' + b' + c)  
 
 ## Usage
 1. Run the program.
