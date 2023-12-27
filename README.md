@@ -15,7 +15,7 @@ This Java application is designed to convert truth tables into equivalent boolea
 - Subsequent lines list input values, followed by the output value.
 
 ## Example
-Input:
+Input:  
 a b c OUT  
 ---------  
 0 0 0 0  
