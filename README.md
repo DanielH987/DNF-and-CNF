@@ -33,7 +33,8 @@ Output:
 >CNF: (a + b + c)(a + b' + c')(a' + b + c')(a' + b' + c)  
 
 ## Usage
-1. Run the program.
+1. Compile the Java code.
+2. Run the program.
 2. Enter the truth table data as per the specified format.
 3. The program will output the equivalent boolean expression in DNF and CNF.
 
