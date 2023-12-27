@@ -16,16 +16,16 @@ This Java application is designed to convert truth tables into equivalent boolea
 
 ## Example
 Input:  
-| a | b | c | OUT |
-|---|---|---|-----|
-| 0 | 0 | 0 |  0  |
-| 0 | 0 | 1 |  1  |
-| 0 | 1 | 0 |  1  |
-| 0 | 1 | 1 |  0  |
-| 1 | 0 | 0 |  1  |
-| 1 | 0 | 1 |  0  |
-| 1 | 1 | 0 |  0  |
-| 1 | 1 | 1 |  1  |
+>| a | b | c | OUT |
+>|---|---|---|-----|
+>| 0 | 0 | 0 |  0  |
+>| 0 | 0 | 1 |  1  |
+>| 0 | 1 | 0 |  1  |
+>| 0 | 1 | 1 |  0  |
+>| 1 | 0 | 0 |  1  |
+>| 1 | 0 | 1 |  0  |
+>| 1 | 1 | 0 |  0  |
+>| 1 | 1 | 1 |  1  |
 
 Output:  
 DNF: a' b' c + a' b c' + a b' c' + a b c  
