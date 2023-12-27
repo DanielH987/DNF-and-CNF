@@ -1,0 +1,2 @@
+DNF: a' b' c + a' b c' + a b' c' + a b c 
+CNF: (a + b + c)(a + b' + c')(a' + b + c')(a' + b' + c)

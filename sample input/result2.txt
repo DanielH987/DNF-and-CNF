@@ -1,0 +1,2 @@
+DNF: a' b' + a b' + a b 
+CNF: (a + b')

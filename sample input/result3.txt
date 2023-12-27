@@ -1,0 +1,2 @@
+DNF: w x' y z' + w' x y z + w' x y' z + w' x' y z + w' x' y z' + w' x' y' z 
+CNF: (w' + x' + y' + z')(w' + x' + y' + z)(w' + x' + y + z')(w' + x' + y + z)(w' + x + y' + z')(w' + x + y + z')(w' + x + y + z)(w + x' + y' + z)(w + x' + y + z)(w + x + y + z)
