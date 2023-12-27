@@ -18,6 +18,7 @@ This Java application is designed to convert truth tables into equivalent boolea
 Input:  
 >| a | b | c | OUT |
 >|---|---|---|-----|
+>|---|---|---|-----|
 >| 0 | 0 | 0 |  0  |
 >| 0 | 0 | 1 |  1  |
 >| 0 | 1 | 0 |  1  |
